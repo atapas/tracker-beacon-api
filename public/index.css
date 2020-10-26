@@ -1,0 +1,24 @@
+body {
+    background: #000000 url(./images/background.jpg) no-repeat right top;
+    color: #FFFFFF;
+    font-family: "Roboto Mono", monospace;
+}
+
+.container {
+    padding: 30px;
+}
+
+.btn {
+    font-size: 1em;
+    padding: 0.25em 1em;
+    border: 2px solid palevioletred;
+    border-radius: 3px;
+    background: white;
+    color: palevioletred;
+    cursor: pointer;
+}
+
+.btn.primary {
+    background: palevioletred;
+    color: white;
+}
