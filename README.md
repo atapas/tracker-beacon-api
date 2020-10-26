@@ -14,6 +14,7 @@ Make sure you have `node.js` installed.
 
 - Clone the repository.
 - Change directtory to the cloned project.
+- Do `npm install` or `yarn`.
 - Open a terminal(or command prompt) and, run the command `node app.js`.
 - Access the URL `http://localhost:3000/demo/`
 
