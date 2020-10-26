@@ -7,13 +7,10 @@ window.addEventListener('load', function() {
 });
 
 window.addEventListener('unload', function() {
-    sendAdHoc('unloading the app');
+    sendAnalytics('unloading the app');
 });
 
-const sendAdHoc = function (msg) {
-    if (!msg) {
-        msg = 'Sending an ad-hoc call';
-    }
+const sendAnalytics = function (msg) {
     if (navigator.sendBeacon) {
          // Data to send
         let data = new FormData();
