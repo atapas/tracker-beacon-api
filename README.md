@@ -14,10 +14,11 @@ Make sure you have `node.js` installed.
 
 - Clone the repository.
 - Change directtory to the cloned project.
+- Do `npm install` or `yarn`.
 - Open a terminal(or command prompt) and, run the command `node app.js`.
 - Access the URL `http://localhost:3000/demo/`
 
 # ⭐ Show your support
-Show your support with a star(⭐) if you liked project. You are welcome fo follow 🤝 me here to stay connected.
+Show your support with a star(⭐) if you liked the project. You are welcome to follow 🤝 me here to stay connected.
 
 Know about [my other projects from here](https://github.com/atapas#-my-show-off-projects).
