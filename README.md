@@ -21,4 +21,10 @@ Make sure you have `node.js` installed.
 # ⭐ Show your support
 Show your support with a star(⭐) if you liked the project. You are welcome to follow 🤝 me here to stay connected.
 
+## Many Thanks to all the `Stargazers` who has supported this project with stars(⭐)
+
+[![Stargazers repo roster for @atapas/tracker-beacon-api](https://reporoster.com/stars/atapas/tracker-beacon-api)](https://github.com/atapas/tracker-beacon-api/stargazers)
+
+
+
 Know about [my other projects from here](https://github.com/atapas#-my-show-off-projects).
