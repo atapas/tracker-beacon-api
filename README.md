@@ -18,6 +18,10 @@ Make sure you have `node.js` installed.
 - Open a terminal(or command prompt) and, run the command `node app.js`.
 - Access the URL `http://localhost:3000/demo/`
 
+# Read more about it
+
+[https://blog.greenroots.info/how-to-log-user-activities-using-the-beacon-web-api-ckgq6s7k0094do9s15udf767u](https://blog.greenroots.info/how-to-log-user-activities-using-the-beacon-web-api-ckgq6s7k0094do9s15udf767u)
+
 # ⭐ Show your support
 Show your support with a star(⭐) if you liked the project. You are welcome to follow 🤝 me here to stay connected.
 
